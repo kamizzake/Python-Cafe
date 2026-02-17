@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Espresso Shot",
+        "cat": "Coffee",
+        "price": 250,
+        "stock": 98
+    },
+    {
+        "name": "Cappuccino",
+        "cat": "Coffee",
+        "price": 450,
+        "stock": 50
+    },
+    {
+        "name": "Caramel Macchiato",
+        "cat": "Coffee",
+        "price": 550,
+        "stock": 40
+    },
+    {
+        "name": "Iced Latte",
+        "cat": "Coffee",
+        "price": 480,
+        "stock": 45
+    },
+    {
+        "name": "Pizza Fajita (Small)",
+        "cat": "Pizza",
+        "price": 800,
+        "stock": 19
+    },
+    {
+        "name": "Pizza Fajita (Large)",
+        "cat": "Pizza",
+        "price": 1500,
+        "stock": 15
+    },
+    {
+        "name": "Pizza Pepperoni (Large)",
+        "cat": "Pizza",
+        "price": 1600,
+        "stock": 15
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "cat": "Italian",
+        "price": 950,
+        "stock": 12
+    },
+    {
+        "name": "Spaghetti Bolognese",
+        "cat": "Italian",
+        "price": 850,
+        "stock": 15
+    },
+    {
+        "name": "Chicken Lasagna",
+        "cat": "Italian",
+        "price": 1100,
+        "stock": 10
+    },
+    {
+        "name": "Chicken Burger (Small)",
+        "cat": "Fast Food",
+        "price": 350,
+        "stock": 50
+    },
+    {
+        "name": "Chicken Burger (Large)",
+        "cat": "Fast Food",
+        "price": 550,
+        "stock": 40
+    },
+    {
+        "name": "Beef Smash Burger",
+        "cat": "Fast Food",
+        "price": 750,
+        "stock": 25
+    },
+    {
+        "name": "Zinger Burger",
+        "cat": "Fast Food",
+        "price": 600,
+        "stock": 35
+    },
+    {
+        "name": "Club Sandwich",
+        "cat": "Fast Food",
+        "price": 450,
+        "stock": 30
+    },
+    {
+        "name": "Loaded Fries",
+        "cat": "Fast Food",
+        "price": 400,
+        "stock": 60
+    },
+    {
+        "name": "Chicken Karahi (Half)",
+        "cat": "Continental",
+        "price": 1200,
+        "stock": 10
+    },
+    {
+        "name": "Chicken Biryani",
+        "cat": "Continental",
+        "price": 450,
+        "stock": 50
+    },
+    {
+        "name": "Beef Steak",
+        "cat": "Continental",
+        "price": 1800,
+        "stock": 8
+    },
+    {
+        "name": "Vanilla Scoop",
+        "cat": "Ice Cream",
+        "price": 150,
+        "stock": 100
+    },
+    {
+        "name": "Chocolate Fudge Scoop",
+        "cat": "Ice Cream",
+        "price": 180,
+        "stock": 80
+    },
+    {
+        "name": "Strawberry Sundae",
+        "cat": "Ice Cream",
+        "price": 350,
+        "stock": 40
+    },
+    {
+        "name": "Molten Lava Cake",
+        "cat": "Dessert",
+        "price": 650,
+        "stock": 15
+    },
+    {
+        "name": "New York Cheesecake",
+        "cat": "Dessert",
+        "price": 550,
+        "stock": 20
+    },
+    {
+        "name": "Brownie Ice Cream",
+        "cat": "Dessert",
+        "price": 450,
+        "stock": 25
+    }
+]

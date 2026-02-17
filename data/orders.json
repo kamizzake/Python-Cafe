@@ -1,0 +1,23 @@
+[
+    {
+        "phone": "03190500550",
+        "items": [
+            {
+                "name": "Espresso Shot",
+                "price": 250,
+                "qty": 1
+            },
+            {
+                "name": "Espresso Shot",
+                "price": 250,
+                "qty": 1
+            },
+            {
+                "name": "Pizza Fajita (Small)",
+                "price": 800,
+                "qty": 1
+            }
+        ],
+        "total": 1300
+    }
+]
