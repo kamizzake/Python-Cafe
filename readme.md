@@ -1,7 +1,5 @@
 # Python Cafe System ☕
 
-# By Abdul Mueed
-
 ## Project Description
 
 This is a my Python Based management system for a Cafe.
